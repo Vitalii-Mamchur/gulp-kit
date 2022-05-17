@@ -1,0 +1,13 @@
+
+@import 'fonts';
+
+body{
+  font-family: Poppins;
+  font-size: 900;
+  color: antiquewhite;
+  background-color: rgb(34, 31, 206);
+  span{
+    color:chartreuse
+  }
+  background: url('@img/me.jpg') 0 0 no-repeat;
+}
